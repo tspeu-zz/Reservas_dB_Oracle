@@ -1,0 +1,5 @@
+1,,Publicidad
+2,,Personal
+3,,Informática
+4,,Contratación
+5,,Ventas

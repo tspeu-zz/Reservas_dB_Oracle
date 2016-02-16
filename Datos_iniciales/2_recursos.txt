@@ -1,0 +1,5 @@
+5,Portatil 1,Portatil Acer Satelite Pro u400
+1,Retroproyector pequeño,Retroproyector de pequeño tamaño pero grandes prestaciones
+3,Retroproyector pequeño 2,Retroproyector de pequeño tamaño pero grandes prestaciones. 
+4,Sala de Juntas,Sala de Juntas situada en planta baja del edificio principal
+6,Portatil 2,Portátil Acer Satélite Pro U300
